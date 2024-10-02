@@ -10,7 +10,7 @@
 
 💡**Highlight**:
 
-1. TEMA for Enhancing Low-Resource Language Models: The Token Embedding Mapping Algorithm (TEMA) is the central proposal aimed at improving the quality of language models for low-resource languages. It maps the token embeddings from a richly pre-trained model in a data-rich language (L1) to a poorly pre-trained model in a low-resource language (L2), resulting in a richer and more accurate L2 model​.
+1. TEMA for Enhancing Low-Resource Language Models: The Token Embedding Mapping Algorithm (TEMA) is the central proposal aimed at improving the quality of language models for low-resource languages. It maps the token embeddings from a richly pre-trained model (L1) to a poorly pre-trained model (L2), resulting in a richer and more accurate L2 model​.
 
 2. Competitive Results and Reduced Perplexity: Experiments show that the L2 model enhanced with TEMA reduces perplexity and achieves state-of-the-art results on semantic tasks such as SuperGLUE, outperforming other approaches like multilingual models or traditional transfer learning techniques​.
 
