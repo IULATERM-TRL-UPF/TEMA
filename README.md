@@ -39,14 +39,14 @@ pip install -r requirements.txt
 
 
 ```
-python main.py --act 1 --lang quechua
+python src/main.py --act 1 --lang quechua
 ```
 
 ### 2. TEMA
 
 
 ```
-python main.py --act 2 --l1 /root/model_l1 --l2 /root/model_l2
+python src/main.py --act 2 --l1 /root/model_l1 --l2 /root/model_l2
 ```
 
 ## 🖋Citation
