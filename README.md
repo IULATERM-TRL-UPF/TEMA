@@ -21,12 +21,33 @@
 
 - Python == 3.10, PyTorch == 2.0.1
 
+## Installation
+
+1. Clone the repository
+2. Navigate to the repository directory
+3. Install the dependencies
+
+```
+git clone https://github.com/IULATERM-TRL-UPF/TEMA
+cd TEMA
+pip install -r requirements.txt
+```
+
 ## 🚀Quick Start
 
 ### 1. Prepare models (only for pre-training)
 
+
+```
+python main.py --act 1 --lang quechua
+```
+
 ### 2. TEMA
 
+
+```
+python main.py --act 2 --l1 /root/model_l1 --l2 /root/model_l2
+```
 
 ## 🖋Citation
 
